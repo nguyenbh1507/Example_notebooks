@@ -5,3 +5,6 @@
 *RL_test*
 model.png
 MNIST_data
+./MNIST_data/*.gz
+*.gz
+.idea
