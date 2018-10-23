@@ -60,11 +60,7 @@ class gameEnv:
         self.actions = 4
         self.objects = []
         self.partial = partial
-        self.state = None
-
-        # For testing
-        # a = self.reset()
-        # plt.imshow(a, interpolation="nearest")
+        self.reset()
         
     def reset(self):
         """
