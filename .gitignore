@@ -1,0 +1,6 @@
+*.h5*
+*.csv
+*.ipynb_checkpoints
+*.tgz
+*RL_test*
+model.png
