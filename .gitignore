@@ -4,3 +4,4 @@
 *.tgz
 *RL_test*
 model.png
+MNIST_data
